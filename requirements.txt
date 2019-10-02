@@ -3,6 +3,7 @@ click
 pip-tools
 pipdeptree
 rainbow-logging-handler
+requests
 thoth-analyzer
 thoth-common
 thoth-python
